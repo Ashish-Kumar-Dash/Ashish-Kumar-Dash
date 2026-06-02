@@ -16,9 +16,9 @@
 
 ### `$ whoami`
 
-CSE 28' undergrad @ **IIT Bhilai** · building tools for the Bitcoin/Lightning ecosystem · systems programming in Rust & Go · chronic open-source contributor.
+CSE '28 undergrad @ **IIT Bhilai** · building tools for the Bitcoin/Lightning ecosystem · systems programming in Rust & Go · chronic open-source contributor.
 
-Currently building Smitebot at Summer of Bitcoin '26, enhancing probabilistic regressors for sktime (ESoC '26), and adding mainframe API support to Zowe (Linux Foundation).
+Currently building Smitebot at Summer of Bitcoin '26, enhancing probabilistic regressors for skpro, and adding mainframe API support to Zowe (Linux Foundation).
 
 ---
 
@@ -58,7 +58,7 @@ Currently building Smitebot at Summer of Bitcoin '26, enhancing probabilistic re
 |---|---|
 | ₿ | **Summer of Bitcoin '26** — building Smitebot for Lightning Network fuzzing |
 | 🐧 | **LFX Mentee** — Zowe Client Java SDK (The Open Mainframe Project) |
-| 📊 | sktime 26' Mentee — probabilistic regressors & new distributions in skpro
+| 📊 | **sktime '26 Mentee** — probabilistic regressors & new distributions in skpro
 | 🏅 | **Polestar of the Year** — Vinoba Polestar Program (Chhattisgarh Govt.) |
 | 🎖️ | **R. P. Singh Memorial Award** — Leadership & Social Work, IIT Bhilai |
 | 🛰️ | **6th / 23 IITs** at Inter IIT Tech Meet 14.0 — ISRO GeoNLI problem statement |
