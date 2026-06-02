@@ -19,6 +19,7 @@
 CSE 28' undergrad @ **IIT Bhilai** · building tools for the Bitcoin/Lightning ecosystem · systems programming in Rust & Go · chronic open-source contributor.
 
 Currently building Smitebot at Summer of Bitcoin '26, enhancing probabilistic regressors for sktime (ESoC '26), and adding mainframe API support to Zowe (Linux Foundation).
+
 ---
 
 ### ⚡ what i've been up to
