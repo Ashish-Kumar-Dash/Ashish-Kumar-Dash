@@ -16,15 +16,15 @@
 
 ### `$ whoami`
 
-CS undergrad @ **IIT Bhilai** · building tools for the Bitcoin/Lightning ecosystem · systems programming in Rust & Go · chronic open-source contributor.
+CSE 28' undergrad @ **IIT Bhilai** · building tools for the Bitcoin/Lightning ecosystem · systems programming in Rust & Go · chronic open-source contributor.
 
-Currently fuzzing Lightning Network nodes at **Summer of Bitcoin '26** and adding mainframe API support to **Zowe (Linux Foundation)**.
-
+Currently building Smitebot at Summer of Bitcoin '26, enhancing probabilistic regressors for sktime (ESoC '26), and adding mainframe API support to Zowe (Linux Foundation).
 ---
 
 ### ⚡ what i've been up to
 
 - 🔧 **Smitebot** — Rust CLI automating AFL++ fuzzing campaigns for Lightning Network nodes (CLN, LND, LDK)
+- 📈 skpro / sktime — Enhancing probabilistic regressors and adding new distributions (Gumbel, Beta, AsymmetricLaplace)
 - 🌍 **Vision42** — Full-stack GeoNLI platform: natural language querying over satellite imagery (Qwen3 VLM + YOLOv11-OBB + vLLM)
 - 📁 **File Sharing App** — Cross-platform system with Flutter frontend, Go backend, MinIO storage, presigned URLs
 - 🏗️ **Zowe Java SDK** — Adding z/OSMF Workflow REST API support for enterprise mainframe integration
@@ -51,28 +51,16 @@ Currently fuzzing Lightning Network nodes at **Summer of Bitcoin '26** and addin
 
 ---
 
-### 📊 stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-Dash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=Ashish-Kumar-Dash&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-Dash&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-
-</div>
-
----
-
 ### 🏆 highlights
 
 | | |
 |---|---|
-| 🛰️ | **6th / 23 IITs** at Inter IIT Tech Meet 14.0 — ISRO GeoNLI problem statement |
 | ₿ | **Summer of Bitcoin '26** — building Smitebot for Lightning Network fuzzing |
-| 🐧 | **LFX Mentee** — Zowe Client Java SDK (Linux Foundation) |
+| 🐧 | **LFX Mentee** — Zowe Client Java SDK (The Open Mainframe Project) |
+| 📊 | sktime 26' Mentee — probabilistic regressors & new distributions in skpro
 | 🏅 | **Polestar of the Year** — Vinoba Polestar Program (Chhattisgarh Govt.) |
 | 🎖️ | **R. P. Singh Memorial Award** — Leadership & Social Work, IIT Bhilai |
+| 🛰️ | **6th / 23 IITs** at Inter IIT Tech Meet 14.0 — ISRO GeoNLI problem statement |
 | 🔧 | **GoFr · ZopDev · GSSoC · Hacktoberfest** SuperContributor |
 
 ---
@@ -81,6 +69,6 @@ Currently fuzzing Lightning Network nodes at **Summer of Bitcoin '26** and addin
 
 <img src="https://komarev.com/ghpvc/?username=Ashish-Kumar-Dash&style=flat-square&color=blue" alt="profile views"/>
 
-*if it compiles, ship it. if it crashes, fuzz it.*
+*Less WTF's, more LGTMs*
 
 </div>
