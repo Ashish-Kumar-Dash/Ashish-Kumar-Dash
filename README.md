@@ -25,7 +25,7 @@ Currently building Smitebot at Summer of Bitcoin '26, enhancing probabilistic re
 ### ⚡ what i've been up to
 
 - 🔧 **Smitebot** — Rust CLI automating AFL++ fuzzing campaigns for Lightning Network nodes (CLN, LND, LDK)
-- 📈 skpro / sktime — Enhancing probabilistic regressors and adding new distributions (Gumbel, Beta, AsymmetricLaplace)
+- 📈 **skpro / sktime** — Enhancing probabilistic regressors and adding new distributions (Gumbel, Beta, AsymmetricLaplace)
 - 🌍 **Vision42** — Full-stack GeoNLI platform: natural language querying over satellite imagery (Qwen3 VLM + YOLOv11-OBB + vLLM)
 - 📁 **File Sharing App** — Cross-platform system with Flutter frontend, Go backend, MinIO storage, presigned URLs
 - 🏗️ **Zowe Java SDK** — Adding z/OSMF Workflow REST API support for enterprise mainframe integration
