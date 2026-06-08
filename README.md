@@ -1,71 +1,84 @@
-```
- █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗
-██╔══██╗██╔════╝██║  ██║██║██╔════╝██║  ██║
-███████║███████╗███████║██║███████╗███████║
-██╔══██║╚════██║██╔══██║██║╚════██║██╔══██║
-██║  ██║███████║██║  ██║██║███████║██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
-```
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Ashish%20Kumar%20Dash&fontColor=e6edf3&fontSize=36&fontAlignY=35&desc=systems%20·%20open%20source%20·%20bitcoin&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-**systems · open source · bitcoin**
+<a href="https://linkedin.com/in/ashish-kumar-dash"><img src="https://img.shields.io/badge/linkedin-e6edf3?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:ashishdash2410@gmail.com"><img src="https://img.shields.io/badge/mail-e6edf3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://codeforces.com/profile/AKDSiuuu"><img src="https://img.shields.io/badge/codeforces-e6edf3?style=flat-square&logo=codeforces&logoColor=1F8ACB" /></a>
+<a href="https://github.com/Ashish-Kumar-Dash"><img src="https://img.shields.io/badge/github-e6edf3?style=flat-square&logo=github&logoColor=181717" /></a>
 
-IIT Bhilai CSE '28 · I build low-level tools, fuzz things until they break, and ship code upstream.
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-ashish--kumar--dash-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-dash)
-[![Mail](https://img.shields.io/badge/-ashishdash2410-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashishdash2410@gmail.com)
-[![Codeforces](https://img.shields.io/badge/-AKDSiuuu-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AKDSiuuu)
-
----
-
-#### `> now`
-
-```
-Summer of Bitcoin '26    → Smitebot: Rust CLI that automates smite fuzzing ops for Lightning nodes
-sktime ESoC '26          → skpro: ensemble probabilistic regressors + new distributions
-LFX Mentorship '26       → Zowe Java SDK: z/OSMF Workflow REST API for mainframe integration
-```
-
-#### `> projects`
-
-| | |
-|:--|:--|
-| **[Smitebot](https://github.com/Ashish-Kumar-Dash)** | Rust · AFL++ fuzzing orchestration for CLN, LND, LDK. Clean shutdown sequences, crash dedup, minimized repros. |
-| **[Vision42](https://github.com/Ashish-Kumar-Dash)** | React + FastAPI · Natural language queries over satellite imagery. Qwen3 VLM + YOLOv11-OBB, vLLM inference, Cloudflare Tunnel. |
-| **[skpro](https://github.com/sktime/skpro)** | Python · Gumbel, Beta, AsymmetricLaplace distributions. Fixed mathematical bugs in Laplace, Pareto, Uniform. |
-| **[File Share](https://github.com/Ashish-Kumar-Dash)** | Flutter + Go · Presigned URLs via MinIO, REST upload/download APIs, Docker + nginx deployment. |
-
-#### `> stack`
-
-```
-lang      rust · go · c · c++ · python · js · dart
-frontend  react · next.js · flutter
-backend   fastapi · rest · grpc
-infra     docker · linux · git · gcp · cloudflare · vercel · nginx
-data      postgresql · supabase · minio
-```
-
-#### `> highlights`
-
-```
-6th / 23 IITs          Inter IIT Tech Meet 14.0 — ISRO GeoNLI (MP3)
-Polestar of the Year   Vinoba Polestar Program, Chhattisgarh Govt.
-R.P. Singh Award       Leadership & Social Work, IIT Bhilai
-Open Source             GoFr · ZopDev · GSSoC '25 · Hacktoberfest SuperContributor
-```
-
----
-
-<details>
-<summary><b>📊 github stats</b></summary>
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Kumar-Dash&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Kumar-Dash&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="160" />
-</p>
-</details>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-$ echo "less WTFs, more LGTMs"
-```
+### About
+
+CSE undergrad @ **IIT Bhilai** (2024–28).
+
+I write systems software in Rust, Go, and C. Chronic Open Source Contributor
+
+**Summer of Bitcoin '26** — Smite
+**sktime ESoC '26** — skpro distributions  
+**LFX Mentorship '26** — Zowe Client Java SDK
+
+</td>
+<td width="50%" valign="top">
+
+### Building
+
+ **Smitebot** — Rust CLI that automates smite fuzzing ops for Lightning Network nodes. AFL++ orchestration, crash dedup, clean shutdown sequences.
+
+ **skpro** — Ensemble probabilistic regressors and new distributions (Gumbel, Beta, AsymmetricLaplace) for the sktime ecosystem.
+
+ **Vision42** — GeoNLI platform for querying satellite imagery in natural language. Qwen3 VLM + YOLOv11 + vLLM.
+
+ **File Sharing App** — Flutter + Go file sharing with MinIO, presigned URLs, Docker deployment.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Stack
+
+**Systems** — Rust · Go · C · C++  
+**Application** — Python · JavaScript · Dart  
+**Frontend** — React · Next.js · Flutter  
+**Backend** — FastAPI · REST  
+**Infra** — Docker · Linux · Git · nginx  
+**Cloud** — GCP · Cloudflare · Vercel  
+**Data** — PostgreSQL · Supabase · MinIO
+
+</td>
+<td width="50%" valign="top">
+
+### Highlights
+
+🛰️ **6th / 23 IITs** — Inter IIT Tech Meet 14.0, ISRO GeoNLI  
+🏅 **Polestar of the Year** — Chhattisgarh Govt. mentorship program  
+🎖️ **R.P. Singh Memorial Award** — IIT Bhilai  
+₿ **Summer of Bitcoin '26** — selected (4 challenge rounds)  
+🐧 **LFX Mentee** — The Open Mainframe Project  
+📊 **sktime ESoC '26** — selected mentee  
+🔧 **GoFr · ZopDev · GSSoC '25** · Hacktoberfest SuperContributor
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Kumar-Dash&bg_color=0d1117&color=e6edf3&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
