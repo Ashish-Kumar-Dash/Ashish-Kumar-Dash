@@ -1,8 +1,8 @@
 <div align="center">
 
-![IIT Bhilai](https://img.shields.io/badge/IIT_Bhilai-CSE_'28-white?style=flat-square)&nbsp;
-![SoB](https://img.shields.io/badge/Summer_of_Bitcoin-'26-F7931A?style=flat-square&logo=bitcoin&logoColor=white)&nbsp;
-![LFX](https://img.shields.io/badge/Linux_Foundation-LFX_'26-003366?style=flat-square&logo=linuxfoundation&logoColor=white)&nbsp;
+![IIT Bhilai](https://img.shields.io/badge/IIT_Bhilai-CSE_'28-white?style=for-the-badge)&nbsp;
+![SoB](https://img.shields.io/badge/Summer_of_Bitcoin-'26-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)&nbsp;
+![LFX](https://img.shields.io/badge/Linux_Foundation-LFX_'26-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-dash)&nbsp;
 [![Gmail](https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishdash2410@gmail.com)&nbsp;
@@ -17,11 +17,11 @@
 
 **`skpro`** — Ensemble probabilistic regressors + new distributions for [skpro](https://github.com/sktime/skpro). *ESoC '26*
 
-**`Zowe SDK`** — z/OSMF Workflow REST API support for the [Zowe Java SDK](https://github.com/zowe/zowe-client-java-sdk). Enterprise mainframe ↔ modern Java. *LFX Mentorship '26*
+**`Zowe SDK`** — z/OSMF Workflow REST API support for the [Zowe Client Java SDK](https://github.com/zowe/zowe-client-java-sdk). Enterprise mainframe ↔ modern Java. *LFX Mentorship '26*
 
 **`Vision42`** — [GeoNLI platform](https://github.com/Ashish-Kumar-Dash/Vision42): natural language queries over satellite imagery. React + FastAPI + Qwen3 VLM + YOLOv11-OBB + vLLM.
 
-**`File Sharing APp`** — [Cross-platform](https://github.com/Ashish-Kumar-Dash/File-Sharing-App) file sharing. Flutter frontend, Go backend, MinIO with presigned URLs, Docker + nginx.
+**`File Sharing App`** — [Cross-platform](https://github.com/Ashish-Kumar-Dash/File-Sharing-App) file sharing. Flutter frontend, Go backend, MinIO with presigned URLs, Docker + nginx.
 
 &nbsp;
 
@@ -47,9 +47,10 @@
 
 &nbsp;
 
-```
-6th / 23 IITs        Inter IIT Tech Meet 14.0 — ISRO GeoNLI
-Polestar of the Year  Vinoba Polestar Program, Chhattisgarh Govt.
-R.P. Singh Award      Leadership & Social Work, IIT Bhilai
-Open Source           GoFr · ZopDev · GSSoC '25 · Hacktoberfest SuperContributor
-```
+> **6th / 23 IITs** — Inter IIT Tech Meet 14.0, ISRO GeoNLI problem statement
+>
+> **Polestar of the Year** — Vinoba Polestar Program, Chhattisgarh Govt.
+>
+> **R.P. Singh Memorial Award** — Leadership & Social Work, IIT Bhilai
+>
+> **Open Source** — GoFr · ZopDev · GSSoC '25 · Hacktoberfest SuperContributor
